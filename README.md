@@ -23,8 +23,6 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
   </div>
-  
-![chaeinP's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeinP&show_icons=true&theme=dark)
 
 <h4>contact</h4>
   <div>
