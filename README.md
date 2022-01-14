@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeinP&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeinP&layout=compact)
 ![chaeinP's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeinP&show_icons=true&theme=dark)
 
 <!--
